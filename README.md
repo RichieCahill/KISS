@@ -1,2 +1,3 @@
 # KISS
-Think problmes threw and keep the sloution simple
+
+Think problems threw and keep the solution simple.
